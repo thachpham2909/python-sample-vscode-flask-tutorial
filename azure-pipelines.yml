@@ -9,7 +9,7 @@ trigger:
 pool: MyAgentPool
 strategy:
   matrix:
-    Python37:
+    Python38:
       python.version: '3.8.10'
 
 steps:
